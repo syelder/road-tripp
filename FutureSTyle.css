@@ -1,0 +1,12 @@
+
+    img { 
+        width: 1000px;
+        height: 1000px;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
